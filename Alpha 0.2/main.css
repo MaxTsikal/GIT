@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+}
+.daughter-1 {
+    background-color: #fc03df;
+    margin: 0 auto;
+    transition: .5s;
+    width: 600px;
+    height: 150px;
+    background-color: #23ddc7;
+    }
+
+
